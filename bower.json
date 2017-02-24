@@ -1,0 +1,17 @@
+{
+  "name": "fake-repo-888",
+  "main": "index.js",
+  "authors": [
+    "Juan Olvera jolvera@posteo.de"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
